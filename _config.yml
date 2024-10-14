@@ -7,6 +7,9 @@
 # server process.
 
 # Basic Site Settings
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+#theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "custom"
 locale                   : "en-US"
 title                    : "María Florencia Gayraud"
 title_separator          : "-"
@@ -21,7 +24,7 @@ repository               : "florgayraud/florgayraud.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Florencia"
   pronouns         : "she/her"  
   bio              : "Political scientist on gender and justice"
