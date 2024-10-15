@@ -10,9 +10,6 @@
  *
 */
 
-@import "minimal-mistakes"; /* Importa el tema base */
-@import "custom-styles";   /* Sobreescribe con tus estilos personalizados */
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -42,3 +39,4 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+@import "minimal-mistakes/skins/sunrise";
