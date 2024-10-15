@@ -2,13 +2,13 @@
 # Front matter comment to ensure Jekyll processes the file.
 ---
 
-/* Sobreescribiendo las variables del tema Minimal Mistakes */
-$mm-primary-color: #ff69b4;  /* Color rosado fuerte */
-$mm-secondary-color: #ffb6c1;  /* Color rosado claro */
-$mm-link-color: #ff1493;  /* Rosado para los enlaces */
-$mm-hover-color: #ff85d3;  /* Rosado para hover en enlaces */
+/* Sobreescribiendo las variables de colores */
+$mm-primary-color: #f8bbd0; /* Rosado claro */
+$mm-secondary-color: #f48fb1; /* Rosado ligeramente más oscuro */
+$mm-link-color: #e91e63; /* Rosado más fuerte para los enlaces */
+$mm-hover-color: #f06292; /* Rosado para hover en enlaces */
 
-/* Otros posibles colores a personalizar */
-$mm-text-color: #ffffff; /* Color de texto */
-$mm-background-color: #330033; /* Fondo rosado oscuro */
-$mm-border-color: #ff85d3; /* Color de borde */
+/* Opcionales: Ajustes de fondo y texto */
+$mm-text-color: #333333; /* Color de texto oscuro */
+$mm-background-color: #fff0f6; /* Fondo rosado muy claro */
+$mm-border-color: #f48fb1; /* Color de borde rosado */

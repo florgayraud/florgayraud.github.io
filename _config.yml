@@ -7,9 +7,10 @@
 # server process.
 
 # Basic Site Settings
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-#theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "custom"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "custom"
+custom_css:
+  - assets/css/custom.css
 locale                   : "en-US"
 title                    : "María Florencia Gayraud"
 title_separator          : "-"
@@ -29,7 +30,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Political scientist on gender and justice"
   location         : "Argentina"
-  employer         : "FUNDAR/UTDT"
+  employer         : "FUNDAR - UTDT"
   uri              : # URL
   email            : "florgayraud@gmail.com" 
 

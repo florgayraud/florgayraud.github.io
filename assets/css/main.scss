@@ -40,5 +40,5 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "minimal-mistakes";
-@import "custom-styles";
+@import "minimal-mistakes"; /* Importa el tema base */
+@import "custom-styles";    /* Importa tus estilos personalizados */
