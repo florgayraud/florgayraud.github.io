@@ -12,3 +12,18 @@ $mm-hover-color: #f06292; /* Rosado para hover en enlaces */
 $mm-text-color: #333333; /* Color de texto oscuro */
 $mm-background-color: #fff0f6; /* Fondo rosado muy claro */
 $mm-border-color: #f48fb1; /* Color de borde rosado */
+
+body {
+    background-color: #fff0f6; /* Fondo rosado claro */
+    color: #333333; /* Color de texto */
+  }
+  
+  a {
+    color: #e91e63; /* Color para los enlaces */
+  }
+  
+  a:hover {
+    color: #f06292; /* Color hover en los enlaces */
+  }
+  
+  /* Otras personalizaciones específicas */

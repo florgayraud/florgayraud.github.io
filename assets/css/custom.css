@@ -1,13 +1,12 @@
-/* Personalización de los colores en tonos rosados claros */
 body {
     background-color: #fff0f6; /* Fondo rosado claro */
     color: #333333; /* Color de texto */
   }
   
   a {
-    color: #e91e63; /* Color de enlaces rosado */
+    color: #e91e63; /* Color para los enlaces */
   }
   
   a:hover {
-    color: #f06292; /* Color para hover en enlaces */
+    color: #f06292; /* Hover en enlaces */
   }
