@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Desafíos del cálculo judicial de las indemnizaciones en contextos inflacionarios: un análisis a partir del caso de los incidentes viales"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is about the challenges in the judicial calculation of judicial compensation in inflationary contexts'
+date: 2024-08-20
+venue: 'Fund.ar'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://florgayraud.github.io/files/paper2.pdf'
+citation: 'Lassalle, M.; Gayraud, F.; Cristallo, J. y Daglio, Ada C. (2024). Desafíos del cálculo judicial de las indemnizaciones en contextos inflacionarios: un análisis a partir del caso de los incidentes viales. Fundar.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In Argentina, a judicial process to determine compensation for a road incident can take up to 6 years on average. This delay, combined with the impact of inflation, jeopardizes the right of victims to receive fair compensation. However, the analysis of this phenomenon reveals disparate criteria and insufficient solutions. We analyze this situation to understand how inflation can affect the proper performance of the justice system and think of some ways to address this challenge.
