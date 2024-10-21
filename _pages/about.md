@@ -9,7 +9,7 @@ redirect_from:
 
 My name is María Florencia Gayraud and I am from Puerto Madryn, a small city in the northern Patagonia. 
 
-I currently work as a Senior Analyst in the Justice Area at [Fundar](fund.ar), where I conduct research primarily focused on the modernization of Argentina’s justice system. 
+I currently work as a Senior Analyst in the Justice Area at [Fundar](https://fund.ar), where I conduct research primarily focused on the modernization of Argentina’s justice system. 
 
 I hold a strong academic background, with a Master’s degree in Public Policy and a Bachelor’s degree in Political Science and Government from Universidad Torcuato Di Tella, where I developed a keen focus on quantitative research. 
 
