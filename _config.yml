@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "sunrise"
+#theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : "María Florencia Gayraud"
 title_separator          : "-"
