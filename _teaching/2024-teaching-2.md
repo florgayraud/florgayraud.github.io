@@ -8,13 +8,7 @@ date: 2024-08-01
 location: "Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Assistant professor of statistics and programming 
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+This course teaches the basic and advanced principles of data management and research techniques applied to law. The course is organized in theoretical, practical and programming sessions focused on the statistical use of RStudio for legal research.
