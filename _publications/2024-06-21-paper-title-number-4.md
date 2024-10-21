@@ -7,7 +7,7 @@ excerpt: 'This paper is about the intregration of gender perspective in the arge
 date: 2024-06-21
 venue: 'European Conference on Gender and Politics'
 paperurl: 'http://florgayraud.github.io/files/paper4.pdf'
-slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
+slidesurl: 'http://florgayraud.github.io/files/slides4.pdf'
 citation: 'Gayraud, M. F. (2024). &quot;Sentences with gender perspective without a common criterion: A foreseeable mistake?; <i>European Conference on Gender and Politics</i>.'
 ---
 
