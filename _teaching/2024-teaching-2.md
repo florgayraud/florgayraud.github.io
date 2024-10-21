@@ -2,7 +2,7 @@
 title: "Assistant Professor of Data Analytics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-teaching-1
+permalink: /teaching/2024-teaching-1
 venue: "Torcuato Di Tella University, Law School"
 date: 2024-08
 location: "Buenos Aires, Argentina"
