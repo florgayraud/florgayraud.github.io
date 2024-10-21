@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-teaching-1
 venue: "Torcuato Di Tella University, Department of Political Science and International Studies"
-date: 2022-08
+date: 2022-08-01
 location: "Buenos Aires, Argentina"
 ---
 

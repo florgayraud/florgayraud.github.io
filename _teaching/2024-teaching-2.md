@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-teaching-2
 venue: "Torcuato Di Tella University, Law School"
-date: 2024-08
+date: 2024-08-01
 location: "Buenos Aires, Argentina"
 ---
 
