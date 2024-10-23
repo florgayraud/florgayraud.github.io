@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * **October 2022 - Present: Senior Analyst**
-  * FOUNDATION FOR ARGENTINIAN DEVELOPMENT (FUNDAR)
+  * Foundation for Argentinian Development (FUNDAR)
   * Research in the Justice Area, focusing on projects related to modernisation of the judiciary and gender mainstreaming.
 
 * **August 2022 - Present: Assistant Professor**
@@ -33,7 +33,7 @@ Work experience
   * Research on the incorporation of women into the high courts of the region led by Andrea Castagnola. 
 
 * **March 2021 - October 2022: Research Assistant**
-  * FOUNDATION FOR ARGENTINIAN DEVELOPMENT (FUNDAR)
+  * Foundation for Argentinian Development (FUNDAR)
   * Conducted research in the areas of Health and Justice.
 
 * **September 2020 - December 2020: Independent Consultant**
