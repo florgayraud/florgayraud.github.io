@@ -21,7 +21,7 @@ Work experience
   * Research in the Justice Area, focusing on projects related to modernisation of the judiciary and gender mainstreaming.
 
 * **August 2022 - Present: Assistant Professor**
-  * Torcuato Di Tella University University
+  * Torcuato Di Tella University 
   * Supporting several courses in Political Institutions and Government, Statistics for Social Sciences, Law and Public Policy, and Data Analysis for Lawyers.
 
 * **August 2024 - Present: Research Project Assistant**
