@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
+* DPhil in Politics, University of Oxford, 2025–present
 * M.S. in Public Policy, Torcuato Di Tella University, 2023
 * B.S. in Political Science and Government, Torcuato Di Tella University, 2020
 
 Work experience
 ======
-* **October 2022 - Present: Senior Analyst**
+* **October 2022 - 2025: Senior Analyst**
   * Foundation for Argentinian Development (FUNDAR)
   * Research in the Justice Area, focusing on projects related to modernisation of the judiciary and gender mainstreaming.
 
-* **August 2022 - Present: Assistant Professor**
+* **August 2022 - 2025: Assistant Professor**
   * Torcuato Di Tella University 
   * Supporting several courses in Political Institutions and Government, Statistics for Social Sciences, Law and Public Policy, and Data Analysis for Lawyers.
 
-* **August 2024 - Present: Research Project Assistant**
+* **August 2024 - 2025: Research Project Assistant**
   * *Temporary contract*
   * Conducting practical sessions and monitoring the DIGES project (Decisions and Gender Institutions in Latin American Justice Systems) — Gender Perspective in Court Rulings (SPG), part of the ALAS Network and the Law and Development Collaboratory at the Universidad Torcuato Di Tella, led by Paola Bergallo.
   
