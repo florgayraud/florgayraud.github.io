@@ -11,70 +11,86 @@ redirect_from:
 
 Education
 ======
-* DPhil in Politics, University of Oxford, 2025–present
-* M.S. in Public Policy, Torcuato Di Tella University, 2023
-* B.S. in Political Science and Government, Torcuato Di Tella University, 2020
+* **DPhil in Politics**, University of Oxford, 2025–2029
+  * Balliol College — ESRC fully-funded studentship
+  * Supervisor: Dr. Ezequiel Gonzalez-Ocantos
 
-Work experience
+* **M.Sc. in Public Policy**, Universidad Torcuato Di Tella, 2021–2023
+  * GPA: 9.05/10 (Rank 1/33)
+  * Dissertation: *Sentences with gender perspective without a common criterion: A foreseeable mistake?*
+  * Supervisor: Dr. Andrea Castagnola
+
+* **B.A. in Political Science & Government**, Universidad Torcuato Di Tella, 2016–2020
+  * Minor in Business (Technology and Data Science)
+  * Full merit-based scholarship
+
+
+Research, Teaching, and Professional Experience
 ======
-* **October 2022 - 2025: Senior Analyst**
-  * Foundation for Argentinian Development (FUNDAR)
-  * Research in the Justice Area, focusing on projects related to modernisation of the judiciary and gender mainstreaming.
 
-* **August 2022 - 2025: Assistant Professor**
-  * Torcuato Di Tella University 
-  * Supporting several courses in Political Institutions and Government, Statistics for Social Sciences, Law and Public Policy, and Data Analysis for Lawyers.
+* **2026–Present: Research Assistant**
+  * University of Erfurt
+  * Working with Dr. Lucia Tiscornia (University College Dublin) and Dr. Alejandra Ortiz-Ayala (University of Erfurt).
+  * Conducting text analysis of survey data collected from the Colombian police.
 
-* **August 2024 - 2025: Research Project Assistant**
-  * *Temporary contract*
-  * Conducting practical sessions and monitoring the DIGES project (Decisions and Gender Institutions in Latin American Justice Systems) — Gender Perspective in Court Rulings (SPG), part of the ALAS Network and the Law and Development Collaboratory at the Universidad Torcuato Di Tella, led by Paola Bergallo.
-  
-* **August 2022 - March 2023: Research Assistant**
-  * Konrad Adenauer Stiftung Foundation (KAS)
-  * Research on the incorporation of women into the high courts of the region led by Andrea Castagnola. 
+* **July–August 2026: Law Tutor, International Summer School**
+  * Immerse Education, Oxford
+  * Taught law to secondary school students aged 13–17 in an intensive residential summer programme.
+  * Designed and delivered interactive sessions including mock trials, Oxford-style debates, and case studies on topics including AI bias in the justice system, GDPR, and employment law.
+  * Developed original course materials and lesson plans, adapting complex legal and ethical concepts through experiential and discussion-based learning.
 
-* **March 2021 - October 2022: Research Assistant**
-  * Foundation for Argentinian Development (FUNDAR)
-  * Conducted research in the areas of Health and Justice.
+* **June 2022–September 2025: Senior Analyst, Justice Area**
+  * Foundation for Argentinian Development (FUNDAR), Buenos Aires
+  * Conducted quantitative research on judicial efficiency and modernisation, publishing policy briefs and research articles with recommendations to improve judicial processes and accessibility.
+  * Collaborated with judges, court officials, and other stakeholders to address judicial needs and organised events within a justice and technology network.
 
-* **September 2020 - December 2020: Independent Consultant**
-  * University of Oxford
-  * Project "State of the Argentine Justice System", led by Ezequiel González-Ocantos (Oxford) y Andrea Castagnola (UTDT). Cleaning and systematization of official data on the Argentine federal justice system. Visualization of productivity rates through heat maps using RStudio. Network analysis with Gephi software on nepotism in some districts.
+* **August 2024–November 2025: Research Consultant**
+  * Colaboratorio de Derecho y Desarrollo (COLAB), Buenos Aires
+  * Led practical sessions and coordinated work teams for the DIGES project on gender perspectives in court rulings (SPG).
+  * Designed, cleaned, and managed a database of court rulings and contributed to the development of a publicly accessible web platform with interactive visualisations.
 
-* **October 2020: Independent Consultant**
-  * Konrad Adenauer Stiftung Foundation (KAS)
-  * Responsible for the practical session of the workshop “Tools for the analysis and visualization of judicial data” organized by Andrea Castagnola in conjunction with the Rule of Law Program for Latin America. Follow-up of participants and development of practical exercises according to their needs and skills, mainly data manipulation with Excel and visualizations with RStudio.
+* **August 2022–September 2025: Teaching Assistant**
+  * Universidad Torcuato Di Tella, Buenos Aires
+  * Delivered lectures and practical sessions for undergraduate courses including Political Institutions and Government, Statistics for Social Sciences, Law and Public Policy, and Data Analysis for Lawyers.
+  * Designed assignments, case studies, and practical exercises connecting theoretical concepts with real-world applications.
 
-* **April 2020 - September 2020: Reasearch Assistant**
-  * University of Notre Dame
-  * Project entitled “USAID The Rule of Law and Culture of Integrity in Paraguay (ROLCI)” led by Aníbal Pérez-Liñán y Andrea Castagnola. Creating a dataset with quantitative information from secondary sources that capture the functioning of judiciaries and the rule of law around the world, from the main databases that contain this type of information (such as the World Bank, FraserInstitute, V-Democracy, World Justice Project, UN). 
 
-* **September 2019 - December 2019: Reasearch Assistant**
-  * Torcuato Di Tella University
-  * Interdepartmental project between the School of Law and the Department of Political Science and International Studies, funded by the Max Planck Institute, in order to understand what has been the logic of argumentation of the Argentine Supreme Court in matters of constitutional control. Tasks based on a thorough reading of rulings and sentences of the Supreme Court over a wide period of time and their codification using common standards for the region proposed by the Max Planck. 
+Additional Consulting Projects
+======
 
-* **March 2018 - September 2018: Volunteer**
-  * Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC)
-  * In the area of Political Institutions, mainly performing tasks such as database management with large volumes of information. Specifically in the assembly of a database on political campaign financing corresponding to the period 2011-2017. It also involved the organization of activities, mainly reporting and following up on guests such as Deputies, Senators or Advisors. 
+* **April–July 2022: Research Consultant**
+  * Konrad Adenauer Stiftung Foundation (KAS), Rule of Law Programme for Latin America
+  * Contributed to a comparative analysis of women's representation in high courts across Latin America, focusing on the role of gender norms and institutional frameworks.
+  * Supervised by Dr. Andrea Castagnola.
+
+* **September–November 2020: Research Consultant**
+  * University of Oxford, Nuffield College
+  * Developed a cleaned and systematised dataset on federal court productivity for the *State of the Argentine Justice System* project.
+  * Conducted data visualisation and network analysis using RStudio and Gephi to examine productivity trends and nepotism in judicial appointments.
+
+* **April–July 2020: Research Consultant**
+  * University of Notre Dame, Pulte Institute for Global Development
+  * Contributed to the USAID-funded *Rule of Law and Culture of Integrity in Paraguay (ROLCI)* project.
+  * Compiled quantitative data from international indices and developed datasets on judicial integrity and performance.
+  * Supervised by Dr. Aníbal Pérez-Liñán and Dr. Andrea Castagnola.
+
 
 Skills
 ======
-* RStudio
-* Github
-* QGIS 
-* Excel
-* Python
-* Gephi
- 
+* **Languages:** Spanish (native), English (C1)
+* **Software:** RStudio, Excel, Visual Basic, GitHub, Python, STATA, QGIS, Gephi
+* **Methodological and Computational Skills:** Text analysis and NLP (classification, LLMs), econometrics (linear and non-linear regressions, time-series analysis, panel data modelling), and causal inference methods (DiD, RDD, matching)
+
+
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
