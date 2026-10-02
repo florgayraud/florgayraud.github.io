@@ -29,6 +29,11 @@ Research, Teaching, and Professional Experience
 ======
 
 * **2026–Present: Research Assistant**
+  * University of Oxford, Nuffield College
+  * Working with Dr. Ezequiel Gonzalez-Ocantos.
+  * Researching judicial selection and labor justice in Argentina.
+  
+* **2026–Present: Research Assistant**
   * University of Erfurt
   * Working with Dr. Lucia Tiscornia (University College Dublin) and Dr. Alejandra Ortiz-Ayala (University of Erfurt).
   * Conducting text analysis of survey data collected from the Colombian police.
