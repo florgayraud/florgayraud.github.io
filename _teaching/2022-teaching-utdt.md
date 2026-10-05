@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate teaching"
 permalink: /teaching/2022-teaching-1
-venue: "Torcuato Di Tella University, Department of Political Science and International Studies"
+venue: "Torcuato Di Tella University"
 date: 2022-08-01
 location: "Buenos Aires, Argentina"
 ---
