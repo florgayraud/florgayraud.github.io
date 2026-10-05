@@ -8,6 +8,6 @@ date: 2026-10-01
 location: "Oxford, United Kingdom"
 ---
 
-### Tutorial Teacher, MT 2026
+### Tutor, MT 2026
 
 Tutorial teaching for **Advanced Papers in Theories of Justice** at Exeter College, University of Oxford.
