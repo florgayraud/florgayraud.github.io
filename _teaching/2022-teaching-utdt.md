@@ -17,4 +17,4 @@ Teaching assistant across undergraduate courses in political science, quantitati
 - **Law and Public Policy**
 - **Data Analysis for Lawyers**
 
-Delivered lectures and practical sessions and designed assignments, case studies, and exercises connecting theoretical concepts with real-world applications.
+Delivered lectures and practical sessions. Also designed assignments and exercises connecting theoretical concepts with real-world applications.
